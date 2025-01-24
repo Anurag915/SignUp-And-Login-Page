@@ -86,10 +86,10 @@ src/
 ## Screenshots
 
 ### Signup Page
-![Signup Page]signupDemo.png
+![Signup Page]./signupDemo.png
 
 ### Login Page
-![Login Page]loginDemo.png
+![Login Page]./loginDemo.png
 
 ## Contributing
 

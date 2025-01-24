@@ -86,11 +86,11 @@ src/
 ## Screenshots
 
 ### Signup Page
-![Signup Page](./my-project/router-project-studyNotation/loginDemo.png)
+![Signup Page](./signupDemo.png)
 <br/>
 
 ### Login Page
-![Login Page]./loginDemo.png
+![Login Page](./loginDemo.png)
 
 ## Contributing
 

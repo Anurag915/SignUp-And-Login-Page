@@ -12,8 +12,6 @@ A professional, fully responsive signup and login page built with **React**. Thi
 
 ## Demo
 
-![Signup and Login Page Preview](path/to/demo-image.jpg)
-
 Try the live demo: https://signup-and-login-page-1-vddx.onrender.com/
 
 ## Installation and Setup
@@ -84,6 +82,7 @@ src/
 - **JAVASCRIPT**: For state management and lifecycle methods.
 
 ## Screenshots
+### Signup Page
 ![Signup Page](signupDemo.png)
 
 

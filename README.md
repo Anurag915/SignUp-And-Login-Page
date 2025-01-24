@@ -84,10 +84,10 @@ src/
 - **JAVASCRIPT**: For state management and lifecycle methods.
 
 ## Screenshots
-![Signup Page](loginDemo.png)
+![Signup Page](signupDemo.png)
 
 
-<!-- ### Login Page
+ ### Login Page
 ![Login Page](https://github.com/Anurag915/SignUp-And-Login-Page/raw/main/loginDemo.png)
 ## Contributing -->
 

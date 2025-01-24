@@ -89,9 +89,9 @@ src/
 ![Signup Page](https://github.com/Anurag915/SignUp-And-Login-Page/raw/main/loginDemo.png)
 <br/>
 
-### Login Page
+<!-- ### Login Page
 ![Login Page](https://github.com/Anurag915/SignUp-And-Login-Page/raw/main/loginDemo.png)
-## Contributing
+## Contributing -->
 
 Contributions are welcome! Follow these steps to contribute:
 

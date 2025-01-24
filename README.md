@@ -86,11 +86,11 @@ src/
 ## Screenshots
 
 ### Signup Page
-![Signup Page](https://github.com/your-username/your-repo/raw/main/loginDemo.png)
+![Signup Page](https://github.com/Anurag915/SignUp-And-Login-Page/raw/main/loginDemo.png)
 <br/>
 
 ### Login Page
-![Login Page](https://github.com/your-username/your-repo/raw/main/loginDemo.png)
+![Login Page](https://github.com/Anurag915/SignUp-And-Login-Page/raw/main/loginDemo.png)
 ## Contributing
 
 Contributions are welcome! Follow these steps to contribute:
